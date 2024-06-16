@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d7291e3-efa2-45c4-847f-840c932127b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recicla_jeans.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/ArchivoServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/ProductoServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/Utilidad.java" afterDir="false" />
-    </list>
+    <list default="true" id="6d7291e3-efa2-45c4-847f-840c932127b1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718501370670</updated>
       <workItem from="1718501372161" duration="12918000" />
-      <workItem from="1718547617386" duration="3390000" />
+      <workItem from="1718547617386" duration="3582000" />
     </task>
     <servers />
   </component>
