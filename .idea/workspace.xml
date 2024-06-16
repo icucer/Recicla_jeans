@@ -12,7 +12,12 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/recicla_jeans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/ArchivoServicio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/ProductoServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/praxis/tienda/Utilidad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718501370670</updated>
       <workItem from="1718501372161" duration="12918000" />
-      <workItem from="1718547617386" duration="2376000" />
+      <workItem from="1718547617386" duration="3390000" />
     </task>
     <servers />
   </component>
